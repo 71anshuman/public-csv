@@ -1,0 +1,6 @@
+,Normal,Gzip,Brotli,"% improvement of 
+Brotli vs Normal","% improvement of 
+Brotli vs Gzip"
+Slow 3G,37954,20579,19056,49.79%,7.40%
+Fast 3G,14441,3072,2680,81.44%,12.76%
+Normal speed ,3982,2820,2417,48.04%,14.29%
