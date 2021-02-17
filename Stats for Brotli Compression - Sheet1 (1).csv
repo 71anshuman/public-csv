@@ -1,0 +1,22 @@
+Slow 3G,,,,,
+,Normal,Gzip,Brotli,"% improvement of 
+Brotli vs Normal","% improvement of 
+Brotli vs Gzip"
+Load Time (ms),37954,20579,19056,49.79%,7.40%
+Size,1700 kB,825 kB,749 kB,55.94%,9.21%
+,,,,,
+,,,,,
+Fast 3G,,,,,
+,Normal,Gzip,Brotli,"% improvement of 
+Brotli vs Normal","% improvement of 
+Brotli vs Gzip"
+Load Time (ms),14441,3072,2680,81.44%,12.76%
+Size,1700 kB,825 kB,749 kB,55.94%,9.21%
+,,,,,
+,,,,,
+Normal speed,,,,,
+,Normal,Gzip,Brotli,"% improvement of 
+Brotli vs Normal","% improvement of 
+Brotli vs Gzip"
+Load Time (ms),3982,2820,2417,48.04%,14.29%
+Size,1700 kB,825 kB,749 kB,55.94%,9.21%
